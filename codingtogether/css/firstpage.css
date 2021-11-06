@@ -1,0 +1,89 @@
+/* Together-1  || last edit 01 nov 2021*/
+
+* {
+	border-box;
+	font-family: Georgia, "Times New Roman", serif;
+}
+
+body{
+	background: #CDEBC4;
+	margin: auto 4%;
+	font-size: 125%;
+
+}
+
+header, footer{
+background: #ff6347;
+opacity:.8;
+}
+
+header {
+	text-align: center;
+	background-image: url("../images/etc.jpeg"); /*purple hair*/
+	background-repeat: no-repeat;
+	background-size: 10% auto;
+	padding-bottom: ;
+;
+}
+
+h1{
+	color: #FFFFFF;
+}
+h2 {
+	color: #FFFFFF;
+
+
+}
+nav{
+	font-variant: small-caps;
+	font-family: Arial, "Times New Roman", serif;
+  font-size: 110%;
+
+}
+
+nav a{
+	display: inline-block;
+	background-color: #FFFFFF;
+	opacity: .8;
+	color: #ff6347;
+	text-decoration: none;
+	width: auto;
+	padding: 4px;
+	margin: 0 auto;
+}
+
+.half{
+  width: 45%;
+	margin-right: 2%;
+	display: inline-block;
+	float: left;
+	background-color: #CDEBC4;
+	color: #306347;
+	padding: 10px 10px;
+	margin:
+
+}
+
+.whole{
+	clear: both;
+}
+
+summary{
+	font-style:normal;
+	color: #306347;
+}
+
+details{
+	font-style: italic;
+	color: #306347;
+}
+
+footer {
+  height: 100px;
+	clear: both;
+
+
+}
+img {
+	width: 75px;
+}
